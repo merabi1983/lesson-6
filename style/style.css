@@ -1,0 +1,45 @@
+header{
+	background-color: mediumpurple;
+}
+.suratebi img{
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	object-fit: cover;
+}
+footer{
+	background-color: lightskyblue;
+}
+.scroll {
+	width: 50px;
+	height: 50px;
+    border-radius: 50%;
+    background-color: orangered;
+    text-align: center;
+
+    position: fixed;
+    right: 30px ;
+    bottom: 30px ;
+}
+.text p{
+	width: 400px;
+	margin-bottom: 30px;
+	margin-left: 30px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.yurdzeni {
+	background-color: mediumseagreen;
+	width: 500px;
+	position: relative;
+}
+.yurdzeni img{
+	width: 100%;
+	height: 400px;
+	object-fit: cover;
+}
+.yurdzeni h3{
+	position: absolute;
+	bottom: 50px;
+	left: 100px;
+}
